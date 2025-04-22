@@ -256,6 +256,8 @@ echo "Transferidos $$amount";
 </form>
 ~~~
 
+![](images/21.png)
+
 Explicación de las correcciones:
 
 - Bloquea todas las solicitudes GET (ya no se puede usar <img> para ataques CSRF).
